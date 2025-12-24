@@ -9,8 +9,8 @@ This repository serves as a centralized location for storing all artifacts, lab 
 ### `/AZ-104/` - Microsoft Azure Administrator
 Resources and materials for the AZ-104 certification exam.
 
-### `/DP-203/` - Data Engineering on Microsoft Azure
-Resources and materials for the DP-203 certification exam.
+### `/DP-700/` - Microsoft Fabric Data Engineer
+Resources and materials for the DP-700 certification exam.
 
 ### `/PL-300/` - Microsoft Power BI Data Analyst
 Resources and materials for the PL-300 certification exam.
@@ -35,7 +35,7 @@ YYYY-MM-DD_<exam-code>_<lab-topic>_<version>.<ext>
 
 Examples:
 - `2025-12-24_AZ-104_virtual-networks_v1.md`
-- `2025-12-24_DP-203_data-pipeline_lab-export.json`
+- `2025-12-24_DP-700_data-pipeline_lab-export.json`
 - `2025-12-24_PL-300_dashboard-design_diagram.png`
 
 ## Commit Rule
